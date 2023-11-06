@@ -13,7 +13,7 @@ export default function Page(){
         <CountButton name="+2" mult={2}/>
         </div>
         <hr />
-        <p style={{display:"flex", justifyContent:"center"}}>Here's a link to my <a href="https://github.com/maicomarx/demonext">github repository</a>.</p>
+        <p style={{display:"flex", justifyContent:"center"}}>Here's a link to my <a href="https://github.com/maicomarx/nextjs_assignment.git"> github repository</a>.</p>
         <hr />
         <SearchBar />
         </div>
