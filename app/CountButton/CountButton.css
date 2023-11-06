@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(193, 247, 229);
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+hr{
+    width: 300%;
+    margin-left: -100%;
+}
+
+button{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: aliceblue;
+    padding: 1em;
+    border: none;
+    border-radius: 15px;
+    margin: 20px 75px;
+    padding: 16px 40px;
+    cursor: pointer;
+    font-size: 2em;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.display{
+    display: flex;
+    justify-content: center;
+    color: rgb(18, 18, 139);
+    font-weight: bold;
+    font-size: 2em;
+}

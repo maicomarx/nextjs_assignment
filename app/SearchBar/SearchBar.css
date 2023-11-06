@@ -1,0 +1,16 @@
+.productStyle{
+    border: 5px solid rgb(18, 18, 139);
+    border-radius: 15px;
+    width: 200px;
+    padding: 10px;
+    overflow: scroll;
+    margin: 10px;
+    background-color: white;
+}
+
+.nameAndPrice{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(18, 18, 139);
+    background-color: white;
+}
